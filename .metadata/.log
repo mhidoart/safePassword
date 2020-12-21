@@ -263,3 +263,21 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-21 16:05:20.361
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YLczLPWF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-21 16:05:20.362
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YLczLPWF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-21 16:05:20.363
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-21 16:05:20.363
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YLczLPWF => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-12-21 16:05:21.232
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.core.jobs 2 2 2020-12-21 16:05:21.978
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.jdt.internal.core.search.processing.JobManager$1ProgressJob
